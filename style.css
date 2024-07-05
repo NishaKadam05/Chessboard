@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
+table,td{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+table{
+    width: 500px;
+    height: 500px;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+
+.odd{
+    background-color: white;
+}
+.odd:hover{
+    background-color: rgb(175, 173, 173);
+}
+.even{
+    background-color: black;
+}
+.even:hover{
+    background-color: rgb(163, 157, 157);
+}
